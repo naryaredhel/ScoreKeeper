@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="reset">Reset</string>
+    <string name="player1">Player 1</string>
+    <string name="score">0</string>
+    <string name="point">Poınts</string>
+    <string name="match_point">match poınt</string>
+    <string name="game">Game</string>
+    <string name="player2">Player 2</string>
+</resources>
